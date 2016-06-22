@@ -1,0 +1,11 @@
+{
+  "name": "random-bytes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Simon Ingeson <simon.ingeson@gmail.com> (http://www.ingeson.se)",
+  "license": "MIT",
+  "private": true
+}
