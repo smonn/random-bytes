@@ -1,7 +1,7 @@
 {
   "name": "random-bytes",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic Node.js web app that returns base64- or hex-encoded random bytes",
   "main": "index.js",
   "scripts": {
   },
